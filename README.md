@@ -4,6 +4,9 @@
 ## Objective
 The objective of this game is to match the displayed color on a randomly chosen LED to the correct color-coded alligator clip. The game utilizes the capacitance values of the alligator clips to detect touch. The LEDs and colors are randomized in order to throw the player off. The player can lose if 2.5 seconds pass after a color is displayed or if the wrong color alligator clip is pressed. 
 
+![image](https://github.com/ShadyLitten/ENGR103_ColorMemoryGame/assets/25358185/f369a5c8-fa86-472a-8cb8-601fa363486e)
+
+
 ## Inputs
 - A1 : **"Green"** -- Green alligator clip detecting touch
 - A2 : **"Red"** -- Red alligator clip detecting touch
